@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="BUILD_PROCESS_HEAP_SIZE" value="2000" />
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/KUKAJavaLib" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/bin" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/Lib" includeSubdirectories="true" />
+      <file url="file://$PROJECT_DIR$/YuehaoProject.iml" />
+    </excludeFromCompile>
+  </component>
+</project>
